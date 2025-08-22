@@ -12,7 +12,7 @@ public class Marco {
  
         int i = 0; // this is and int, it stores integeres
       
-      
+        System.out.println("marco is " + i + " years old");
         
     }
 }
